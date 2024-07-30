@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://umesperav.github.io/sitemap.html.gz
+Sitemap: https://umesperav.github.io/app/sitemap.html.gz
+Sitemap: https://umesperav.github.io/assets/sitemap.html.gz
+Sitemap: https://umesperav.github.io/css/sitemap.html.gz
+Sitemap: https://umesperav.github.io/includes/sitemap.html.gz
+Sitemap: https://umesperav.github.io/item/sitemap.html.gz
+Sitemap: https://umesperav.github.io/src/sitemap.html.gz
